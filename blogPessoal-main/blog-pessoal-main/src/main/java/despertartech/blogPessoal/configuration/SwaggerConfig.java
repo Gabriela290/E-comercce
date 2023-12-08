@@ -28,10 +28,10 @@ public class SwaggerConfig {
 					.contact(new Contact()
 							.name("Gabriela Ferreira")
 							.url("https://github.com/Gabriela290")
-							.email("dlm.lorena@gmail.com")))
+							.email("gabriela.amaral.fumcad@despertar.org.br")))
 					.externalDocs(new ExternalDocumentation()
-							.description("Github")
-							.url("https://github.com/loirena/blog-pessoal"));
+							.description("Github projeto E-comercce")
+							.url("https://github.com/martinskauan/projetoecomerce"));
 	}
 	
 	
